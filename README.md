@@ -61,7 +61,7 @@ You can either host the application with docker compose (recommended) or locally
 
 ### Clone the repository
 
-``git clone https://github.com/Jeb4dev/django-rest-api.git``
+``git clone https://github.com/airen95/dijango-rest-framework-assignment``
 
 ### Prepare environments
 
